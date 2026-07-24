@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building full-stack web applications, including e-commerce projects and student-focused platforms.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, beginner-friendly web development projects, and real-world applications.<br><br>🤝 I’m looking for help with  <br>Improving my backend skills, system design, and learning best practices for building scalable applications.<br><br>🌱 I’m currently learning  <br>Node.js, Express.js, React, databases, APIs, and improving my JavaScript and Python skills.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, React, Node.js, Git/GitHub, and my journey into software development.<br><br>⚡ Fun fact  <br>I started with simple HTML/CSS projects and now I'm building full-stack applications 🚀
+🔭 Hi, I'm Nhlamulo 👋
+
+💻 Aspiring Software Developer  
+🚀 Currently building full-stack web applications  
+🌱 Learning React, Node.js, APIs, and databases
 
 
 ## 🌐 Socials:
